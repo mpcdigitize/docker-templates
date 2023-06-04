@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>rradio</Name>
+  <Repository>mpcdigitize/rradio</Repository>
+  <Registry>https://hub.docker.com/r/mpcdigitize/rradio</Registry>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support/>
+  <Project/>
+  <Overview>RRADIO is an internet radio stream recorder and player. Schedule and record multiple radio streams in a background. Play recorder shows in your phone, on desktop or in tablet browser. Pause and resume where you left off. Import recordings into your favorite podcasting phone application.&#xD;
+&#xD;
+Application is for personal and non-commercial use only.&#xD;
+&#xD;
+Application does not contain any media guide or external links. Radio Stations make streaming URL available on their websites in a Support section.</Overview>
+  <Category>MediaApp:Music MediaApp:Other</Category>
+  <WebUI>http://[IP]:[PORT:8383]</WebUI>
+  <TemplateURL/>
+  <Icon/>
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled/>
+  <DonateText/>
+  <DonateLink/>
+  <Requires/>
+  <Config Name="media" Target="/media" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false"/>
+  <Config Name="config" Target="/config" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false"/>
+  <Config Name="Key 1" Target="PUID" Default="99" Mode="" Description="" Type="Variable" Display="always" Required="false" Mask="false">99</Config>
+  <Config Name="Key 2" Target="PGID" Default="100" Mode="" Description="" Type="Variable" Display="always" Required="false" Mask="false">100</Config>
+  <Config Name="Host Port" Target="80" Default="" Mode="tcp" Description="" Type="Port" Display="always" Required="false" Mask="false">8383</Config>
+</Container>
+
