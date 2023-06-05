@@ -17,13 +17,13 @@ Application does not contain any media guide or external links. Radio Stations m
   <Category>MediaApp:Music MediaApp:Other</Category>
   <WebUI>http://[IP]:[PORT:8383]</WebUI>
   <TemplateURL/>
-  <Icon/>
+  <Icon>https://github.com/mpcdigitize/docker-templates/assets/17713703/1cb76e14-ca87-488c-bf10-639576b85d66</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
   <DateInstalled/>
-  <DonateText/>
-  <DonateLink/>
+  <DonateText>Thank you for your donation.</DonateText>
+  <DonateLink>https://www.paypal.com/donate/?business=EZ6HYRBS7DY4U&no_recurring=0&currency_code=USD</DonateLink>
   <Requires/>
   <Config Name="media" Target="/media" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false"/>
   <Config Name="config" Target="/config" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false"/>
