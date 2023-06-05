@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support/>
+  <Support>https://forums.unraid.net/topic/140040-support-mpcdigitize-%E2%80%93-rradio/</Support>
   <Project/>
   <Overview>RRADIO is an internet radio stream recorder and player. Schedule and record multiple radio streams in a background. Play recorder shows in your phone, on desktop or in tablet browser. Pause and resume where you left off. Import recordings into your favorite podcasting phone application.&#xD;
 &#xD;
