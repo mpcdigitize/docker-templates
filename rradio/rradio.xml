@@ -23,7 +23,7 @@ Application does not contain any media guide or external links. Radio Stations m
   <CPUset/>
   <DateInstalled/>
   <DonateText>Thank you for your donation.</DonateText>
-  <DonateLink>https://www.paypal.com/donate/?business=EZ6HYRBS7DY4U&no_recurring=0&currency_code=USD</DonateLink>
+  <DonateLink>https://www.paypal.com/donate/?business=EZ6HYRBS7DY4U&amp;no_recurring=0&amp;currency_code=USD</DonateLink>
   <Requires/>
   <Config Name="media" Target="/media" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false"/>
   <Config Name="config" Target="/config" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false"/>
