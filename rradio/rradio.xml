@@ -18,8 +18,8 @@
   <PostArgs/>
   <CPUset/>
   <DateInstalled/>
-  <DonateText>Thank you for your donation.</DonateText>
-  <DonateLink>https://www.paypal.com/donate/?business=EZ6HYRBS7DY4U&#038no_recurring=0&#038currency_code=USD</DonateLink>
+  <DonateText>If you like my work please</DonateText>
+  <DonateLink>https://www.paypal.com/donate/?business=EZ6HYRBS7DY4U&%26no_recurring=1&%26currency_code=USD</DonateLink>
   <Requires/>
   <Config Name="media" Target="/media" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false"/>
   <Config Name="config" Target="/config" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false"/>
