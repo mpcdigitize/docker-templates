@@ -9,11 +9,7 @@
   <Privileged>false</Privileged>
   <Support>https://forums.unraid.net/topic/140040-support-mpcdigitize-%E2%80%93-rradio/</Support>
   <Project/>
-  <Overview>RRADIO is an internet radio stream recorder and player. Schedule and record multiple radio streams in a background. Play recorder shows in your phone, on desktop or in tablet browser. Pause and resume where you left off. Import recordings into your favorite podcasting phone application.&#xD;
-&#xD;
-Application is for personal and non-commercial use only.&#xD;
-&#xD;
-Application does not contain any media guide or external links. Radio Stations make streaming URL available on their websites in a Support section.</Overview>
+  <Overview>RRADIO is an internet radio stream recorder and player. Schedule and record multiple radio streams in a background. Play recorder shows in your phone, on desktop or in tablet browser. Pause and resume where you left off. Import recordings into your favorite podcasting phone application.</Overview>
   <Category>MediaApp:Music MediaApp:Other</Category>
   <WebUI>http://[IP]:[PORT:8383]</WebUI>
   <TemplateURL/>
@@ -23,7 +19,7 @@ Application does not contain any media guide or external links. Radio Stations m
   <CPUset/>
   <DateInstalled/>
   <DonateText>Thank you for your donation.</DonateText>
-  <DonateLink>https://www.paypal.com/donate/?business=EZ6HYRBS7DY4U&no_recurring=0&currency_code=USD</DonateLink>
+  <DonateLink>https://www.paypal.com/donate/?business=EZ6HYRBS7DY4U&#038no_recurring=0&#038currency_code=USD</DonateLink>
   <Requires/>
   <Config Name="media" Target="/media" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false"/>
   <Config Name="config" Target="/config" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false"/>
