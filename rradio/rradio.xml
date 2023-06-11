@@ -19,7 +19,7 @@
   <CPUset/>
   <DateInstalled/>
   <DonateText>If you like my work please</DonateText>
-  <DonateLink><![CDATA[https://www.paypal.com/donate/?business=EZ6HYRBS7DY4U&no_recurring=1&currency_code=USD]]></DonateLink>
+  <DonateLink><![CDATA[<message>https://www.paypal.com/donate/?business=EZ6HYRBS7DY4U&no_recurring=1&currency_code=USD</message>]]></DonateLink>
   <Requires/>
   <Config Name="media" Target="/media" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false"/>
   <Config Name="config" Target="/config" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false"/>
