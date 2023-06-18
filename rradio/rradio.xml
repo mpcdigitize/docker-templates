@@ -11,7 +11,7 @@
   <Project/>
   <Overview>RRADIO is an internet radio stream recorder and player. Schedule and record multiple radio streams in a background. Play recorder shows in your phone, on desktop or in tablet browser. Pause and resume where you left off. Import recordings into your favorite podcasting phone application.</Overview>
   <Category>MediaApp:Music MediaApp:Other</Category>
-  <WebUI>http://[IP]:[PORT:8383]</WebUI>
+  <WebUI>http://[IP]:[PORT:80]</WebUI>
   <TemplateURL/>
   <Icon>https://github.com/mpcdigitize/docker-templates/assets/17713703/1cb76e14-ca87-488c-bf10-639576b85d66</Icon>
   <ExtraParams/>
@@ -19,7 +19,7 @@
   <CPUset/>
   <DateInstalled/>
   <DonateText>If you like my work please</DonateText>
-  <DonateLink><![CDATA[https://www.paypal.com/donate/?business=EZ6HYRBS7DY4U&no_recurring=1&currency_code=USD]]></DonateLink>
+  <DonateLink>https://www.paypal.com/donate/?business=EZ6HYRBS7DY4U&amp;no_recurring=0&amp;currency_code=USD</DonateLink>
   <Requires/>
   <Config Name="media" Target="/media" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false"/>
   <Config Name="config" Target="/config" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false"/>
